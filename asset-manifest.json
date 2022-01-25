@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/E-comm/static/css/main.d37e652e.chunk.css",
+    "main.js": "/E-comm/static/js/main.db191286.chunk.js",
+    "main.js.map": "/E-comm/static/js/main.db191286.chunk.js.map",
+    "runtime-main.js": "/E-comm/static/js/runtime-main.d570f815.js",
+    "runtime-main.js.map": "/E-comm/static/js/runtime-main.d570f815.js.map",
+    "static/css/2.e46078de.chunk.css": "/E-comm/static/css/2.e46078de.chunk.css",
+    "static/js/2.25eb4362.chunk.js": "/E-comm/static/js/2.25eb4362.chunk.js",
+    "static/js/2.25eb4362.chunk.js.map": "/E-comm/static/js/2.25eb4362.chunk.js.map",
+    "static/js/3.7cb8c6b0.chunk.js": "/E-comm/static/js/3.7cb8c6b0.chunk.js",
+    "static/js/3.7cb8c6b0.chunk.js.map": "/E-comm/static/js/3.7cb8c6b0.chunk.js.map",
+    "index.html": "/E-comm/index.html",
+    "static/css/2.e46078de.chunk.css.map": "/E-comm/static/css/2.e46078de.chunk.css.map",
+    "static/css/main.d37e652e.chunk.css.map": "/E-comm/static/css/main.d37e652e.chunk.css.map",
+    "static/js/2.25eb4362.chunk.js.LICENSE.txt": "/E-comm/static/js/2.25eb4362.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/E-comm/static/media/Recoleta-Regular.849d4640.eot",
+    "static/media/avatar.ad133300.png": "/E-comm/static/media/avatar.ad133300.png",
+    "static/media/font-awesome.css": "/E-comm/static/media/fontawesome-webfont.f691f37e.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d570f815.js",
+    "static/css/2.e46078de.chunk.css",
+    "static/js/2.25eb4362.chunk.js",
+    "static/css/main.d37e652e.chunk.css",
+    "static/js/main.db191286.chunk.js"
+  ]
+}
