@@ -1,8 +1,9 @@
 Git Hub / Bit Bucket Commands
 
+git status
 git init
-git add -A || git add . (ignore 2nd one)
-git commit -m “commit”
+git add . OR git add -A
+git commit -m ï¿½commitï¿½
 git remote -v
 
 If origin is not created 
@@ -16,7 +17,7 @@ git push origin master
 
 Git Hub / Bit Bucket Commands (Just PUSH)
 
-git commit -am “commit”
+git commit -am ï¿½commitï¿½
 git push origin master
 
 Incase of stash merge issue
