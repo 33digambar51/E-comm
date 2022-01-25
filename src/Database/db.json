@@ -1,0 +1,161 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "fname": "Priti",
+      "lname": "Mamgin",
+      "uname": "priti",
+      "email": "priti@test.com",
+      "password": "12345",
+      "contact": "88888888",
+      "address": "Austraila",
+      "description": "Hi, Priti. How are you. ",
+      "interest": "CRT",
+      "language": "React"
+    },
+    {
+      "id": 2,
+      "fname": "Peter",
+      "lname": "Royal",
+      "uname": "peter",
+      "email": "peter@test.com",
+      "password": "peter@123",
+      "contact": "989897653",
+      "address": "India",
+      "description": "hh",
+      "interest": "RGB",
+      "language": "React"
+    }
+  ],
+  "admin": [
+    {
+      "id": 1,
+      "fname": "mohan",
+      "lname": "singh",
+      "uname": "mohan",
+      "email": "mohan@test.com",
+      "password": "mohan@123",
+      "contact": "09787654321",
+      "address": "Aus",
+      "description": "Hi, Mohan Singh. How R U.",
+      "interest": "CRT",
+      "language": "React"
+    }
+  ],
+  "list": [
+    {
+      "name": "Hp Laptop 430",
+      "price": "83000",
+      "description": "Good Laptop and services of hp.",
+      "quantity": "17",
+      "color": "gray",
+      "image": "",
+      "cat_Id": "1",
+      "id": 1
+    },
+    {
+      "name": "Dell Laptop x305",
+      "price": "84000",
+      "description": "Dell laptop.",
+      "quantity": "24",
+      "color": "black and white",
+      "image": "",
+      "cat_Id": "2",
+      "id": 2
+    },
+    {
+      "name": "titan",
+      "price": "3400",
+      "description": "awesome watch of titon",
+      "quantity": "11",
+      "color": "white/steel",
+      "image": "",
+      "cat_Id": "3",
+      "id": 3
+    },
+    {
+      "name": "samsung",
+      "price": "34000",
+      "description": "good tv of samsung",
+      "quantity": "17",
+      "color": "gray",
+      "image": "",
+      "cat_Id": "4",
+      "id": 4
+    },
+    {
+      "name": "lg foxeen",
+      "price": "15000",
+      "description": "good came of lg",
+      "quantity": "14",
+      "color": "black/white",
+      "image": "",
+      "cat_Id": "2",
+      "id": 5
+    },
+    {
+      "name": "redmi 9",
+      "price": "15000",
+      "description": "good mobile handset of redmi",
+      "quantity": "12",
+      "color": "blue,green,red",
+      "image": "",
+      "cat_Id": "5",
+      "id": 6
+    },
+    {
+      "name": "apple 12",
+      "price": "45000",
+      "description": "good mobile of applle",
+      "quantity": "12",
+      "color": "gray",
+      "image": "",
+      "cat_Id": "5",
+      "id": 7
+    }
+  ],
+  "cat": [
+    {
+      "name": "Laptop",
+      "id": 1
+    },
+    {
+      "name": "Camera",
+      "id": 2
+    },
+    {
+      "name": "watch",
+      "id": 3
+    },
+    {
+      "name": "tv",
+      "id": 4
+    },
+    {
+      "name": "mobile ",
+      "id": 5
+    }
+  ],
+  "brand": [
+    {
+      "name": "dell",
+      "id": 1
+    },
+    {
+      "name": "sony",
+      "id": 2
+    },
+    {
+      "name": "lg",
+      "id": 3
+    },
+    {
+      "name": "samsung",
+      "id": 4
+    },
+    {
+      "name": "redmi",
+      "id": 5
+    }
+  ]
+}
