@@ -1,0 +1,65 @@
+Git Hub / Bit Bucket Commands
+
+git init
+git add -A || git add . (ignore 2nd one)
+git commit -m “commit”
+git remote -v
+
+If origin is not created 
+git remote add origin (git path)
+
+If you want to remove origin
+git remote rm origin
+
+git pull origin master
+git push origin master
+
+Git Hub / Bit Bucket Commands (Just PUSH)
+
+git commit -am “commit”
+git push origin master
+
+Incase of stash merge issue
+git reset --hard
+
+----------------------------------------------------------------------------
+
+server login on ubuntu:-
+ssh -i playgroundraters.pem ubuntu@18.216.255.109
+ssh -i flight-synergies.pem ubuntu@18.219.205.244
+
+=========================================================
+git init
+git add .
+git status
+git commit -m "first commit"
+
+Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+PS D:\React\Shopping Cart> git config --global user.email "er.digambars@gmail.com"
+PS D:\React\Shopping Cart> git config --global user.name "33digambar51"
+PS D:\React\Shopping Cart> git config --list
+user.email=er.digambars@gmail.com (ignore this)
+user.name=33digambar51            (ignore this)
+
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/33digambar51/digambar.git
+git push -u origin main
+
+===================================================================
+Push Code and add new branch in Git
+
+>git branch // master or main
+>git checkout -b dev
+>git add .
+>git commit -m "changes"
+>git push
+>git push --set-upstream origin dev(copy & paste this)
